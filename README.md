@@ -9,10 +9,6 @@ A Jetpack Compose sample showing how `AnimatedVisibility` turns flat UI state ch
 - `animateContentSize` for layout changes that don't jump
 - When *not* to animate — restraint is a feature
 
-## Demo
-
-![Demo](demo.gif)
-
 ## Run it
 
 1. Clone the repo
